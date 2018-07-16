@@ -1,0 +1,75 @@
+**********************  FIRST PASS ****************************
+Gyro biases (deg/hr):
+-1223.206883 1160.847054 349.783864 (limit 2062.648062) 
+PASS (59.3 % of limit)
+
+Gyro scale factors:
+  0.000874  -0.006034  -0.009451 (limit 0.010000) 
+PASS (94.5 % of limit)
+
+Gyro misalignments:
+ -0.034820   0.000058   0.001760   0.002229   0.006862  -0.009527 (limit 0.010000) 
+FAIL (348.2 % of limit)
+
+Accel biases (mg):
+  2.154811 -14.667982 -15.932296 (limit 50.000000) 
+PASS (31.9 % of limit)
+
+Accel scale factors:
+  0.000368   0.002566   0.008592 (limit 0.010000) 
+PASS (85.9 % of limit)
+
+Accel misalignments:
+  0.000004   0.000001   0.013792  -0.000001   0.000454   0.004640 (limit 0.010000) 
+FAIL (137.9 % of limit)
+
+**********************  SECOND PASS ****************************
+Gyro biases (deg/hr):
+ 53.442007  19.465025  26.514028 (limit 206.264806) 
+PASS (25.9 % of limit)
+
+Gyro scale factors:
+  0.000461  -0.000047  -0.000285 (limit 0.002000) 
+PASS (23.1 % of limit)
+
+Gyro misalignments:
+  0.000262   0.000188   0.000625   0.000261   0.000620  -0.000687 (limit 0.002000) 
+PASS (34.3 % of limit)
+
+Accel biases (mg):
+ -0.010674   0.026391   0.133682 (limit 2.000000) 
+PASS ( 6.7 % of limit)
+
+Accel scale factors:
+  0.000162  -0.000043  -0.000068 (limit 0.001000) 
+PASS (16.2 % of limit)
+
+Accel misalignments:
+  0.000002   0.000003   0.001050  -0.000001   0.001162   0.000594 (limit 0.003000) 
+PASS (38.7 % of limit)
+
+**********************  THIRD PASS ****************************
+Gyro biases (deg/hr):
+  3.683278  -0.334109  -1.279737 (limit 61.879442) 
+PASS ( 6.0 % of limit)
+
+Gyro scale factors:
+  0.000275   0.000152  -0.000264 (limit 0.002000) 
+PASS (13.8 % of limit)
+
+Gyro misalignments:
+  0.000133   0.000010   0.000518   0.000169   0.000477  -0.000478 (limit 0.002000) 
+PASS (25.9 % of limit)
+
+Accel biases (mg):
+ -0.022757   0.005243  -0.005237 (limit 0.300000) 
+PASS ( 7.6 % of limit)
+
+Accel scale factors:
+  0.000030  -0.000011  -0.000009 (limit 0.000300) 
+PASS ( 9.9 % of limit)
+
+Accel misalignments:
+  0.000001   0.000002   0.000411  -0.000001   0.000400   0.000013 (limit 0.001500) 
+PASS (27.4 % of limit)
+
